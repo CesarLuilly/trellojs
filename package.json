@@ -1,0 +1,23 @@
+{
+  "name": "trellojs",
+  "version": "1.0.0",
+  "description": "1.- `npm install dotenv --save`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarLuilly/trellojs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarLuilly/trellojs/issues"
+  },
+  "homepage": "https://github.com/CesarLuilly/trellojs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "trello": "^0.11.0"
+  }
+}
