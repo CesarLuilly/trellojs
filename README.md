@@ -47,3 +47,7 @@ trello.addCard(cardTitle, "LaunchX Card Description",
 ```
 
 ### Visita la documentacion de Trello para mas informacion https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-id-memberships-get
+
+6.- Cuando corramos la aplicacion con `node app.js` se agregara una nueva targeta a nuestro board, en este caso del tablero de LaunchX.
+
+![Targeta agregada](./imgReadme/addedCard.jpg)
